@@ -10,4 +10,6 @@ Download zip file
 
 Extract PKGBUILD
 
+Install bullet && luajit
+
 run makepkg -si
