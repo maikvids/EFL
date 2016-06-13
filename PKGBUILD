@@ -1,4 +1,4 @@
-pkgname=('efl')
+pkgname=efl
 pkgver=1.17.1
 pkgrel=1
 pkgdesc="Enlightenment Foundation Libraries"
